@@ -2,5 +2,6 @@
 <body>
  <H1> First Page </H1>
  <img src="Tulips.jpg" width="145" height="126" usemap="#Tulipmap">
+ <map name="Tulip">
 </body>
 </Html>
