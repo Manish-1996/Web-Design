@@ -1,7 +1,10 @@
-<Html>
-<body>
- <H1> First Page </H1>
- <img src="Tulips.jpg" width="145" height="126" usemap="#Tulipmap">
- <map name="Tulip">
-</body>
-</Html>
+<HTML>
+<BODY>
+<H1> INDIA MAP </H1>
+<img src="MAP.jpg" WIDTH =500 HEIGHT=600  usemap="#MAP">
+<MAP NAME= "MAP">
+<AREA SHAPE="RECT" coords="0,0,82,126" HREF="INTRO.HTML" ALT="INTRO">
+<AREA SHAPE="CIRCLE" coords="100,550,82" HREF="CLG.HTML" ALT="CLG">
+</MAP>
+</BODY>
+</html>
